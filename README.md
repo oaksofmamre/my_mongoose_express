@@ -18,7 +18,7 @@ localhost:3000
 
 From Heroku:
 ```
-[https://nameless-river-39195.herokuapp.com/]
+https://nameless-river-39195.herokuapp.com/
 ```
 
 Highlights: 
